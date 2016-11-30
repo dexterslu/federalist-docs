@@ -1,4 +1,5 @@
 name: Federalist Documentation
+
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -97,8 +98,10 @@ defaults:
     path: ""
   values:
     layout: "docs"
+
 stylesheets:
 - /assets/uswds/css/uswds.css
+
 scripts:
 - /assets/uswds/js/uswds.js
 
